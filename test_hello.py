@@ -3,4 +3,4 @@ def test_helo():
         if i < 3:
             print("hello veera my world test coverage")
         elif i > 3:
-            print("Good Morning all")
+            print("Good morning all")
